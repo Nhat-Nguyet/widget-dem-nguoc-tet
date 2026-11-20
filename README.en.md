@@ -1,3 +1,5 @@
+> **This repository has moved.** This widget now lives in [nhatnguyet-widgets/dem-nguoc-tet](https://github.com/Nhat-Nguyet/nhatnguyet-widgets/tree/main/dem-nguoc-tet), together with the other 13 widgets. This repository is archived.
+
 # Countdown to Tết
 
 Days left until the first of Tết, switching its message at New Year's Eve and on the day.

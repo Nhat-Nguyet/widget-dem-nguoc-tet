@@ -1,3 +1,5 @@
+> **Kho này đã chuyển.** Widget này nay nằm ở [nhatnguyet-widgets/dem-nguoc-tet](https://github.com/Nhat-Nguyet/nhatnguyet-widgets/tree/main/dem-nguoc-tet), cùng 13 widget khác. Kho này chỉ còn để lưu trữ.
+
 # Đếm ngược Tết
 
 Còn bao nhiêu ngày tới mùng Một. Tự đổi cách hiển thị khi tới Giao thừa và ngày Tết.
